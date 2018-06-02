@@ -1,0 +1,101 @@
+state,state_abbreviation,county,fips,party,candidate,votes,fraction_votes
+Arkansas,AR,Johnson,5071,Republican,"Ted Cruz",1004,0.298
+Virginia,VA,Fluvanna,51065,Republican,"Ben Carson",232,0.064
+Wisconsin,WI,Oconto,55083,Democrat,"Bernie Sanders",2577,0.513
+Illinois,IL,Crawford,17033,Democrat,"Hillary Clinton",609,0.501
+"North Carolina",NC,Gaston,37071,Republican,"John Kasich",2125,0.084
+Iowa,IA,Fayette,19065,Republican,"Donald Trump",240,0.24
+Texas,TX,Coke,48081,Republican,"Donald Trump",251,0.294
+Vermont,VT,Bennington,50003,Republican,"Marco Rubio",196,0.198
+Michigan,MI,Montcalm,26117,Republican,"Donald Trump",3051,0.351
+Ohio,OH,Fulton,39051,Democrat,"Hillary Clinton",1480,0.487
+Illinois,IL,Schuyler,17169,Democrat,"Hillary Clinton",368,0.544
+Iowa,IA,Jefferson,19101,Democrat,"Bernie Sanders",654,0.727
+Montana,MT,Fallon,30025,Democrat,"Hillary Clinton",34,0.586
+Nebraska,NE,Jefferson,31095,Democrat,"Bernie Sanders",58,0.586
+"West Virginia",WV,Upshur,54097,Republican,"Ted Cruz",399,0.093
+Iowa,IA,Floyd,19067,Republican,"Carly Fiorina",8,0.011
+Virginia,VA,Smyth,51173,Republican,"Donald Trump",1744,0.52
+"New York",NY,Madison,36053,Republican,"Donald Trump",2968,0.47
+Michigan,MI,Otsego,26137,Republican,"Ted Cruz",1040,0.242
+Ohio,OH,Crawford,39033,Democrat,"Bernie Sanders",1141,0.436
+"New Jersey",NJ,Salem,34033,Democrat,"Hillary Clinton",2814,0.565
+"West Virginia",WV,Pocahontas,54075,Democrat,"Hillary Clinton",524,0.348
+Texas,TX,Brazoria,48039,Republican,"Ted Cruz",19993,0.51
+Texas,TX,Refugio,48391,Democrat,"Hillary Clinton",549,0.642
+Florida,FL,Lafayette,12067,Republican,"Donald Trump",556,0.52
+Iowa,IA,"Des Moines",19057,Republican,"Rand Paul",99,0.046
+Kentucky,KY,Pulaski,21199,Democrat,"Bernie Sanders",1148,0.466
+Texas,TX,Navarro,48349,Democrat,"Bernie Sanders",333,0.253
+"New York",NY,Genesee,36037,Democrat,"Bernie Sanders",1539,0.549
+"South Dakota",SD,Miner,46097,Democrat,"Bernie Sanders",84,0.435
+Michigan,MI,Barry,26015,Republican,"John Kasich",2191,0.207
+Tennessee,TN,"Van Buren",47175,Republican,"Ben Carson",69,0.077
+"West Virginia",WV,Cabell,54011,Democrat,"Hillary Clinton",4407,0.379
+"New York",NY,Ontario,36069,Republican,"John Kasich",2430,0.302
+Kentucky,KY,Warren,21227,Democrat,"Hillary Clinton",4829,0.449
+Texas,TX,Runnels,48399,Republican,"Ben Carson",144,0.06
+Kentucky,KY,Kenton,21117,Democrat,"Bernie Sanders",4880,0.465
+Oklahoma,OK,Stephens,40137,Republican,"Ted Cruz",2428,0.446
+Virginia,VA,Essex,51057,Republican,"Ted Cruz",142,0.122
+Iowa,IA,Wright,19197,Republican,"Mike Huckabee",15,0.027
+Arkansas,AR,Columbia,5027,Republican,"Ben Carson",208,0.066
+Illinois,IL,Macoupin,17117,Republican,"Donald Trump",3527,0.478
+Massachusetts,MA,Norfolk,25021,Democrat,"Bernie Sanders",956,0.553
+Montana,MT,"Judith Basin",30045,Democrat,"Bernie Sanders",69,0.448
+"South Dakota",SD,Lincoln,46083,Republican,"Donald Trump",1760,0.613
+"North Carolina",NC,Stanly,37167,Republican,"John Kasich",747,0.071
+Mississippi,MS,Grenada,28043,Republican,"Ted Cruz",960,0.309
+"New York",NY,Seneca,36099,Republican,"Donald Trump",1516,0.536
+Georgia,GA,Wilkes,13317,Democrat,"Hillary Clinton",702,0.821
+Oklahoma,OK,Jackson,40065,Republican,"Ben Carson",179,0.076
+Mississippi,MS,Leake,28079,Republican,"John Kasich",159,0.058
+Iowa,IA,Iowa,19095,Democrat," Uncommitted",0,0
+Illinois,IL,Kankakee,17091,Republican,"Marco Rubio",1175,0.078
+"West Virginia",WV,Harrison,54033,Republican,"Ted Cruz",628,0.086
+"North Carolina",NC,Washington,37187,Republican,"John Kasich",38,0.054
+Missouri,MO,Audrain,29007,Democrat,"Hillary Clinton",749,0.496
+Arkansas,AR,Johnson,5071,Republican,"Marco Rubio",617,0.183
+Iowa,IA,"Palo Alto",19147,Republican,"Donald Trump",117,0.271
+Iowa,IA,Kossuth,19109,Republican,"Jeb Bush",13,0.014
+Virginia,VA,Fluvanna,51065,Republican,"John Kasich",277,0.076
+Indiana,IN,Tipton,18159,Democrat,"Bernie Sanders",606,0.581
+Texas,TX,Webb,48479,Republican,"Ted Cruz",1155,0.282
+"South Carolina",SC,Lancaster,45057,Democrat,"Bernie Sanders",1213,0.266
+Pennsylvania,PA,Carbon,42025,Republican,"Donald Trump",5977,0.727
+"South Dakota",SD,Buffalo,46017,Democrat,"Hillary Clinton",110,0.608
+Nebraska,NE,Clay,31035,Republican,"Donald Trump",702,0.676
+Michigan,MI,Clinton,26037,Republican,"John Kasich",3357,0.263
+Virginia,VA,Culpeper,51047,Democrat,"Hillary Clinton",1421,0.547
+"North Carolina",NC,Vance,37181,Democrat,"Hillary Clinton",4561,0.64
+Kentucky,KY,Russell,21207,Democrat,"Bernie Sanders",332,0.467
+Georgia,GA,Ware,13299,Democrat,"Hillary Clinton",919,0.75
+Arkansas,AR,Columbia,5027,Democrat,"Hillary Clinton",1008,0.738
+Tennessee,TN,Wayne,47181,Republican,"Ben Carson",158,0.072
+Colorado,CO,Phillips,8095,Democrat,"Hillary Clinton",11,0.344
+Maine,ME,Penobscot,23019,Democrat,"Bernie Sanders",4,0.8
+Illinois,IL,Madison,17119,Republican,"John Kasich",3866,0.107
+Ohio,OH,Lawrence,39087,Republican,"John Kasich",3692,0.303
+Nevada,NV,Eureka,32011,Republican,"Marco Rubio",31,0.159
+Georgia,GA,Taylor,13269,Democrat,"Hillary Clinton",476,0.877
+Missouri,MO,Christian,29043,Republican,"Ted Cruz",10586,0.533
+Tennessee,TN,Cannon,47015,Republican,"Marco Rubio",195,0.083
+Nevada,NV,Churchill,32001,Republican,"John Kasich",43,0.032
+Michigan,MI,Manistee,26101,Republican,"Ted Cruz",979,0.262
+Texas,TX,Franklin,48159,Democrat,"Hillary Clinton",163,0.676
+Arkansas,AR,Logan,5083,Democrat,"Hillary Clinton",881,0.689
+"South Carolina",SC,Hampton,45049,Democrat,"Bernie Sanders",241,0.11
+"New Hampshire",NH,Grafton,33009,Republican,"Jeb Bush",1864,0.115797974777909
+Iowa,IA,Johnson,19103,Democrat,"Bernie Sanders",5473,0.595
+Illinois,IL,Logan,17107,Republican,"Donald Trump",2185,0.36
+Washington,WA,Lewis,53041,Republican,"Donald Trump",8513,0.818
+Mississippi,MS,Panola,28107,Republican,"John Kasich",193,0.046
+Alabama,AL,Clay,1027,Republican,"Ted Cruz",836,0.207
+Arkansas,AR,Baxter,5005,Democrat,"Bernie Sanders",807,0.362
+Texas,TX,Crane,48103,Republican,"Marco Rubio",169,0.164
+Mississippi,MS,Carroll,28015,Democrat,"Bernie Sanders",82,0.089
+Florida,FL,Sarasota,12115,Republican,"John Kasich",8100,0.111
+Iowa,IA,Boone,19015,Republican,"Ted Cruz",566,0.322
+Massachusetts,MA,Plymouth,25023,Republican,"Marco Rubio",1310,0.161
+"North Carolina",NC,Cleveland,37045,Republican,"Donald Trump",4668,0.447
+California,CA,Placer,6061,Democrat,"Bernie Sanders",12787,0.42
